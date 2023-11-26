@@ -5,7 +5,7 @@ https://github.com/katayoon-faraji-web/trick10/assets/144775981/8e8fbb07-dd21-4d
 
 - Developed by katayoon faraji
 
-- 🗓️Created - 2023-10
+- 🗓️Created - 2023-10-18
 
 - 💻Technologies Used - Html , Css , Css3 , Animation,Sass
 
