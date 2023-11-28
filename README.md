@@ -1,7 +1,7 @@
-# trick10
+# trick10-Animation
 https://github.com/katayoon-faraji-web/trick10/assets/144775981/8e8fbb07-dd21-4db0-b0d5-80decb25dc8d
 
-- [Demo Project](https://katayoon-faraji-web.github.io/trick10/)
+- [Demo Project](https://katayoon-faraji-web.github.io/trick10-Animation/)
 
 - Developed by katayoon faraji
 
